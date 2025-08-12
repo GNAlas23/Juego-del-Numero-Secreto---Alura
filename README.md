@@ -1,2 +1,2 @@
-<h1> Sistema de Registro </h1>
+<h1> Juego del número secreto </h1>
 - Estado del Proyecto: Finalizado
